@@ -9,6 +9,9 @@ a.	Glucose prediction algorithm that predicts glucose levels 30 minutes into the
 b.	Data in HDeviceWizard to come up with a way to simulate the meal patterns of new “virtual subjects”. Analyze meal timing and size, fit distributions to this data, and use the distributions to create simulated meal data for newly created “virtual subjects” that come from the same population as the study participants. 
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 Problem, Presentation : Tandem Diabetes Care Data Science Challenge Solution Presentation.pptx
